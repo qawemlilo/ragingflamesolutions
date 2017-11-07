@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #000;
-  background: url(img/bg-cover.jpg) no-repeat center center;
+  background: url(../img/bg-cover.jpg) no-repeat center center;
   background-size: cover;
 }
 body {
